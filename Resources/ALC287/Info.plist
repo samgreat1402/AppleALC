@@ -13,12 +13,6 @@
 		<key>Layouts</key>
 		<array>
 			<dict>
-				<key>Id</key>
-				<integer>11</integer>
-				<key>Path</key>
-				<string>layout11.xml.zlib</string>
-			</dict>
-			<dict>
 				<key>Comment</key>
 				<string>Custom ALC287 for Lenovo Yoga Slim 7-14IIL05 by Andres ZeroCross</string>
 				<key>Id</key>
@@ -37,12 +31,6 @@
 		</array>
 		<key>Platforms</key>
 		<array>
-			<dict>
-				<key>Id</key>
-				<integer>11</integer>
-				<key>Path</key>
-				<string>Platforms11.xml.zlib</string>
-			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Custom ALC287 for Lenovo Yoga Slim 7-14IIL05 by Andres ZeroCross</string>
