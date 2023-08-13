@@ -1218,8 +1218,8 @@
 			</dict>
 			<key>Outputs</key>
 			<array>
-				<string>Headphone</string>
 				<string>IntSpeaker</string>
+				<string>Headphone</string>
 			</array>
 			<key>PathMapID</key>
 			<integer>31</integer>
