@@ -122,11 +122,11 @@
 									<true/>
 								</dict>
 								<key>NodeID</key>
-								<integer>10</integer>
+								<integer>7</integer>
 							</dict>
 							<dict>
 								<key>NodeID</key>
-								<integer>37</integer>
+								<integer>36</integer>
 							</dict>
 							<dict>
 								<key>Boost</key>
@@ -212,7 +212,7 @@
 									<false/>
 								</dict>
 								<key>NodeID</key>
-								<integer>3</integer>
+								<integer>2</integer>
 							</dict>
 						</array>
 					</array>
