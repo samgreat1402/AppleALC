@@ -19,6 +19,8 @@
 			<dict/>
 			<key>LineIn</key>
 			<dict>
+				<key>HeadsetMic_dBV</key>
+				<integer>1088421888</integer>
 				<key>MuteGPIO</key>
 				<integer>1342242841</integer>
 				<key>SignalProcessing</key>
@@ -617,6 +619,10 @@
 			</dict>
 			<key>Mic</key>
 			<dict>
+				<key>HeadsetMic_dBV</key>
+				<integer>1088421888</integer>
+				<key>MuteGPIO</key>
+				<integer>0</integer>
 				<key>SignalProcessing</key>
 				<dict>
 					<key>SoftwareDSP</key>
@@ -1213,8 +1219,8 @@
 			</dict>
 			<key>Outputs</key>
 			<array>
-				<string>Headphone</string>
 				<string>IntSpeaker</string>
+				<string>Headphone</string>
 			</array>
 			<key>PathMapID</key>
 			<integer>212</integer>
