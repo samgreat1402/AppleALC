@@ -50,7 +50,7 @@
 									<true/>
 								</dict>
 								<key>NodeID</key>
-								<integer>7</integer>
+								<integer>8</integer>
 							</dict>
 							<dict>
 								<key>Amp</key>
@@ -80,7 +80,7 @@
 									<true/>
 								</dict>
 								<key>NodeID</key>
-								<integer>36</integer>
+								<integer>35</integer>
 							</dict>
 							<dict>
 								<key>Boost</key>
