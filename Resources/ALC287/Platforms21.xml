@@ -117,9 +117,9 @@
 										</dict>
 									</array>
 									<key>MuteInputAmp</key>
-									<true/>
-									<key>PublishMute</key>
 									<false/>
+									<key>PublishMute</key>
+									<true/>
 									<key>PublishVolume</key>
 									<false/>
 									<key>VolumeInputAmp</key>
@@ -130,7 +130,7 @@
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>1</integer>
+								<integer>3</integer>
 								<key>NodeID</key>
 								<integer>25</integer>
 							</dict>
